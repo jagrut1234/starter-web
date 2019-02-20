@@ -8,3 +8,6 @@ This is simple repository is for showing how Git and GitHub work.This is sentenc
 Sample website with plenty of files for demos.this is sentence number 1.
 
 ## Deployment
+
+### Copyright
+2019 Git.training
