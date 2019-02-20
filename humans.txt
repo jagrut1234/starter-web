@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Jagrut Davane jdavane1996@gmail.com
 
 # THANKS
 
